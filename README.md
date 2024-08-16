@@ -107,4 +107,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For any queries, please contact Vandana-205 via [vandnapalyam@gmail.com].
+For any queries, please contact Vandana-205 via [vandanapalyam@gmail.com].
