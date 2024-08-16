@@ -43,38 +43,6 @@ Copy code
 npm start
 The frontend will be available at http://localhost:3000.
 Project Structure
-bash
-Copy code
-car-vault-app-using-mern-stack/
-├── client/                    # Frontend code (React)
-│   ├── node_modules/          # Frontend dependencies
-│   ├── public/                # Public assets and index.html
-│   ├── src/                   # React components, styles, and assets
-│   │   ├── components/        # Reusable React components
-│   │   ├── App.js             # Main React component
-│   │   ├── App.css            # Global styles
-│   │   ├── index.js           # Entry point for React
-│   │   ├── index.css          # Base styles
-│   │   ├── logo.svg           # Logo image
-│   │   ├── reportWebVitals.js # Performance monitoring
-│   │   └── setupTests.js      # Testing setup
-│   ├── .gitignore             # Ignored files and directories for Git
-│   ├── package.json           # Frontend dependencies and scripts
-│   ├── package-lock.json      # Locked versions of dependencies
-│   └── README.md              # Frontend documentation
-├── server/                    # Backend code (Node.js, Express.js)
-│   ├── node_modules/          # Backend dependencies
-│   ├── config/                # Configuration files (e.g., database)
-│   ├── controllers/           # Request handlers for routes
-│   ├── models/                # Mongoose models for MongoDB
-│   ├── routes/                # API routes definitions
-│   ├── middleware/            # Custom middleware functions
-│   ├── .env                   # Environment variables
-│   ├── package.json           # Backend dependencies and scripts
-│   ├── package-lock.json      # Locked versions of dependencies
-│   ├── seedData.js            # Database seeding script
-│   └── server.js              # Entry point for the backend server
-└── README.md                  # Project documentation
 
 API Endpoints
 Authentication
